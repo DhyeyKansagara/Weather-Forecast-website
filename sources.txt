@@ -1,0 +1,5 @@
+https://forecast.weather.gov/MapClick.php?CityName=Newark&state=NJ
+https://forecast.weather.gov/MapClick.php?CityName=Hoboken&state=NJ
+https://forecast.weather.gov/MapClick.php?CityName=Clifton&state=NJ
+https://forecast.weather.gov/MapClick.php?CityName=Kearny&state=NJ
+https://forecast.weather.gov/MapClick.php?CityName=Trenton&state=NJ

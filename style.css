@@ -1,0 +1,28 @@
+
+.table{
+text-align: center;
+border: 1px;
+background-color: bisque;
+}
+
+.navbar{
+    background-color: #d5f4e6 !important;
+}
+
+.container{
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.navbar-brand{
+    
+    padding-right: 35%;
+}
+
+.footer{
+    background-color: #d5f4e6 !important;
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+    overflow: hidden;
+}
